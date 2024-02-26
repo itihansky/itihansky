@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "strict": true,
+    "baseUrl": "./", 
+    //"noImplicitAny": false,
+    //"allowJs": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "types": ["cypress", "@types/testing-library__cypress", "@types/node", "cypress-wait-until", "cypress-grep", "cypress-real-events"]
+  }
+}

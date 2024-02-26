@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1708602696064' stop='1708602701233'>
+    <name>example to-do app</name>
+    <title>example to-do app</title>
+    <test-cases>
+        <test-case start='1708602696064' status='passed' stop='1708602699115'>
+            <name>displays two todo items by default</name>
+            <title>displays two todo items by default</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1708602699124' status='passed' stop='1708602699666'>
+            <name>can add new todo items</name>
+            <title>can add new todo items</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1708602699683' status='passed' stop='1708602699922'>
+            <name>can check off an item as completed</name>
+            <title>can check off an item as completed</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

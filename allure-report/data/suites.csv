@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Feb 22 14:51:40 MSK 2024","Thu Feb 22 14:51:41 MSK 2024","388","","example to-do app with a checked task","","example to-do app with a checked task","can delete all completed tasks","can delete all completed tasks",""
+"passed","Thu Feb 22 14:51:39 MSK 2024","Thu Feb 22 14:51:39 MSK 2024","239","","example to-do app","","example to-do app","can check off an item as completed","can check off an item as completed",""
+"passed","Thu Feb 22 14:51:40 MSK 2024","Thu Feb 22 14:51:40 MSK 2024","370","","example to-do app with a checked task","","example to-do app with a checked task","can filter for completed tasks","can filter for completed tasks",""
+"passed","Thu Feb 22 14:51:39 MSK 2024","Thu Feb 22 14:51:40 MSK 2024","501","","example to-do app with a checked task","","example to-do app with a checked task","can filter for uncompleted tasks","can filter for uncompleted tasks",""
+"passed","Thu Feb 22 14:51:36 MSK 2024","Thu Feb 22 14:51:39 MSK 2024","3051","","example to-do app","","example to-do app","displays two todo items by default","displays two todo items by default",""
+"passed","Thu Feb 22 14:51:39 MSK 2024","Thu Feb 22 14:51:39 MSK 2024","542","","example to-do app","","example to-do app","can add new todo items","can add new todo items",""
