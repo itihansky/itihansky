@@ -8,6 +8,6 @@
     //"allowJs": true,
     "resolveJsonModule": true,
     "esModuleInterop": true,
-    "types": ["cypress", "@types/testing-library__cypress", "@types/node", "cypress-wait-until", "cypress-grep", "cypress-real-events"]
+    "types": ["cypress", "@types/testing-library__cypress", "@types/node", "cypress-wait-until", "cypress-grep", "cypress-real-events", "cypress-allure-plugin"]
   }
 }

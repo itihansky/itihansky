@@ -1,8 +1,5 @@
 import { homePage } from '../../pages/home_page';
 import { mainPage } from '../../pages/main_page';
-// import { authorizationAndOpeningPortal } from '../../../support';
-// import avitoPage from '../../../pages/tracking/Avito.page';
-// import homePage from '../../../pages/tracking/home.page';
 
 describe('User eXperience', function () {
  beforeEach(() => {
