@@ -16,21 +16,13 @@
 // Import commands.js using ES2015 syntax:
 
 import './commands';
-// import 'cypress-allure-plugin';
-// import 'cypress-allure-plugin/commands';
+
 import '@shelex/cypress-allure-plugin';
 require('@shelex/cypress-allure-plugin');
 module.exports = {
- // Ваши конфигурационные параметры
- chromeWebSecurity: false
+  // Ваши конфигурационные параметры
+  chromeWebSecurity: false,
 };
-// const allureWriter = require('@shelex/cypress-allure-plugin/writer');
-
-// module.exports = (on, config) => {
-//  allureWriter(on, config);
-
-//  return config;
-// };
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')

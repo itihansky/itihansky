@@ -8,8 +8,6 @@
     "cy_test": "cypress open ",
     "cy:run": "cypress run --env allure=true",
     "allure:report": "allure generate allure-results --clean -o allure-report",
-    "allure:clear": "rm -r allure-results/ allure-report cypress/screenshots || true",
-    "allure:history": "mv -f allure-report/history allure-results/history && rm -r allure-report || true",
     "prestart": "npm install",
     "start": "http-server -a localhost -p 8000 -c-1 ./app",
     "pretest": "npm run allure:clear",
@@ -35,6 +33,7 @@
   "homepage": "https://github.com/itihansky/itihansky#readme",
   "devDependencies": {
     "@shelex/cypress-allure-plugin": "^2.40.1",
+    "@types/testing-library__cypress": "^5.0.13",
     "allure-commandline": "^2.27.0",
     "cypress": "^13.6.6",
     "mocha-allure-reporter": "^1.4.0",
