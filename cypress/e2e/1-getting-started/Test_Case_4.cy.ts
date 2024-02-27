@@ -1,5 +1,5 @@
 import { homePage } from '../../pages/home_page';
-import { mainPage } from '../../pages/main_page';
+import mainPage from '../../pages/basket_page';
 
 describe('Test Exercise', function () {
   beforeEach(() => {

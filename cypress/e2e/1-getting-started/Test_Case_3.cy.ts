@@ -1,5 +1,5 @@
 import { homePage } from '../../pages/home_page';
-import { mainPage } from '../../pages/main_page';
+import mainPage from '../../pages/basket_page';
 import TestData from '../../fixtures/Test_Case_2/testData';
 import BasketData from '../../fixtures/mocks/mock_basket_value';
 import { mock_basket_values } from '../../fixtures/mocks/routes';
